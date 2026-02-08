@@ -69,12 +69,11 @@ git clone https://github.com/sreepriya190307/weather-app.git
 🔗 https://sreepriya190307.github.io/weather/
 
 📸 **Screenshots:**
+<img width="1920" height="792" alt="Image" src="https://github.com/user-attachments/assets/c0db64ad-a9cb-4792-bceb-d563d5f156c2" />
 
-<img width="1920" height="792" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/cdbc22e6-6c8a-43e3-b0e6-332dbb0383df" />
+<img width="1920" height="846" alt="Image" src="https://github.com/user-attachments/assets/6b285bfa-4748-4425-9367-4aefd74b90af" />
 
-<img width="1920" height="846" alt="Screenshot 2026-02-08 155102" src="https://github.com/user-attachments/assets/7084ccb5-617c-4cbc-9ec0-db369f39a88f" />
-
-<img width="1920" height="853" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/a5b69a58-770d-4b34-b89e-a529d5313ae8" />
+<img width="1920" height="853" alt="Image" src="https://github.com/user-attachments/assets/beef3564-b107-4d5a-85dd-fec2352f14c9" />
 
 ## 📈 Learning Outcomes
 
