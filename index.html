@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="weather-container">
+    <h1 class="title">🌤 Weather App</h1>
+    <p class="subtitle">Smart • Clean • Powerful</p>
+
+    <input type="text" id="city" placeholder="Enter city name">
+
+    <button onclick="getWeather()">Get Weather</button>
+    <button class="location-btn" onclick="getLocationWeather()">📍 Use My Location</button>
+    <button class="toggle" onclick="toggleMode()">🌙 Toggle Mode</button>
+    <button class="voice" onclick="speakWeather()">🔊 Hear Weather</button>
+
+    <div id="weather-result"></div>
+
+    <canvas id="tempChart"></canvas>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

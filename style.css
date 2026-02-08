@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    height: 100vh;
+    background: linear-gradient(135deg, #1d2671, #c33764); /* FIXED */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.weather-container {
+    width: 360px;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+}
+
+.title {
+    font-size: 26px;
+}
+
+.subtitle {
+    font-size: 14px;
+    opacity: 0.8;
+    margin-bottom: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 8px;
+    background: linear-gradient(135deg, #ff9800, #ff5722);
+    color: #fff;
+}
+
+.location-btn {
+    background: linear-gradient(135deg, #4caf50, #2e7d32);
+}
+
+.toggle {
+    background: transparent;
+    border: 2px solid #fff;
+}
+
+.voice {
+    background: linear-gradient(135deg, #673ab7, #512da8);
+}
+
+#weather-result {
+    margin-top: 15px;
+}
+
+canvas {
+    margin-top: 15px;
+}
+
+/* Light mode (NO background change) */
+body.light-mode {
+    color: #000;
+}
+
+body.light-mode .weather-container {
+    background: rgba(255,255,255,0.8);
+}
+
+body.light-mode .toggle {
+    border-color: #000;
+    color: #000;
+}
