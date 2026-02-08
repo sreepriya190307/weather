@@ -50,7 +50,7 @@ git clone https://github.com/sreepriya190307/weather-app.git
 
 ➡️ Open `index.html` in any modern browser
 ✅ No installation or API key required
-
+```
 ---
 
 ## 🌐 APIs Used
@@ -98,12 +98,6 @@ git clone https://github.com/sreepriya190307/weather-app.git
 
 Pull requests are welcome.
 For major changes, please open an issue first.
-
----
-
-## 📄 License
-
-Licensed under the **MIT License** – free to use and modify.
 
 ---
 
