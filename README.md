@@ -43,15 +43,6 @@ Weather-App/
 
 ---
 
-## ⚙️ How to Run Locally
-
-```bash
-git clone https://github.com/sreepriya190307/weather-app.git
-
-➡️ Open `index.html` in any modern browser
-✅ No installation or API key required
-```
----
 
 ## 🌐 APIs Used
 
